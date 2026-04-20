@@ -49,16 +49,16 @@ Voici les dernières actualités du {date} :
 Produis une synthèse structurée en français. Utilise le format Markdown compatible Telegram (gras avec *texte*, pas de #).
 
 *🌍 MONDE*
-Points clés pouvant impacter l'Afrique (3-5 bullets)
+Points clés pouvant impacter l'Afrique (5-10 bullets)
 
 *🌍 AFRIQUE & SAHEL*
-Développements régionaux importants (3-5 bullets)
+Développements régionaux importants (5-10 bullets)
 
 *🇧🇫 BURKINA FASO & ALLIANCE AES*
-Impact direct ou indirect sur le Burkina, relations avec Russie/Chine/partenaires (2-4 bullets)
+Impact direct ou indirect sur le Burkina, relations avec Russie/Chine/partenaires (4-8 bullets)
 
 *📊 ÉCONOMIE & HUMANITAIRE*
-Matières premières, aide internationale, crise humanitaire (2-3 bullets)
+Matières premières, aide internationale, crise humanitaire (5-10 bullets)
 
 *⚡ POINT CLÉ DU MOMENT*
 En 2-3 phrases : le fait le plus important à surveiller pour le Burkina Faso.
