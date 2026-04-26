@@ -55,7 +55,7 @@ BURKINA_FEEDS = [
 ]
 
 BRIEFING_PROMPT = """\
-Tu es un analyste géopolitique expert en Afrique de l'Ouest, au Sahel et spécialiste des dynamiques sociales burkinabè.
+Tu es un analyste géopolitique expert en Afrique de l'Ouest, au Sahel et spécialiste des dynamiques sociales et politiques burkinabè. Ajoute un lien vérifiable à toutes tes informations. Cite uniquement les sources vérifiables. N'hallucine jamais.
 
 Voici les dernières actualités du {date} :
 
